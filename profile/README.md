@@ -1,3 +1,3 @@
-# EU QA Gustavo Machado - Mentoria e Cursos onlines
+# EU QA Gustavo Machado - Mentorias e Cursos onlines
 
 Em construção
