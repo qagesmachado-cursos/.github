@@ -1,3 +1,3 @@
-# .github
+# EU QA Gustavo Machado - Mentoria e Cursos onlines
 
-Repo visuLizaçap
+Em construção
