@@ -1,8 +1,10 @@
-# EU QA Gustavo Machado - Mentorias e Cursos onlines
+# EU QA | Cursos
 
+## Programa de mentoria
 
-## Courses
+- Em breve
 
+## Cursos Disponíveis
 <details>
   <summary>
     <a>Robot Framework: testes automatizados de interface e API</a>
@@ -11,7 +13,7 @@
   <a name="robot"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/?referralCode=3328501F5ADA67F6232B)
-  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_robot_ui_api)
+  - [Acesse o repositório](https://github.com/EU-QA/udemy_curso_robot_ui_api)
 </details>
 
 <details>
@@ -22,7 +24,7 @@
   <a name="robot"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/robot-framework-basico-web-e-api/?referralCode=B09F2BA773489543DCC5)
-  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_basico_robot_framework)
+  - [Acesse o repositório](https://github.com/EU-QA/udemy_curso_basico_robot_framework)
 </details>
 
 
@@ -34,7 +36,7 @@
   <a name="postman"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/?referralCode=3ED49D8F294C92F0B8A1)
-  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_postman_basico_avancado)
+  - [Acesse o repositório](https://github.com/EU-QA/udemy_curso_postman_basico_avancado)
 </details>
 
 <details>
@@ -45,7 +47,6 @@
   <a name="iniciando_em_qa"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/?referralCode=EA0BC9A8C708B9EBEE5D)
-  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_introducao_testes)
 </details>
 
 <details>
@@ -56,12 +57,12 @@
   <a name="git_github"></a>
   
   - [Acesse o curso](https://www.udemy.com/course/aprenda-git-e-github-desde-o-basico/?referralCode=007EDB0484C211DD47EB)
-  - [Acesse o repositório](https://github.com/qagesmachado/udemy_curso_gitgithub)
+  - [Acesse o repositório](https://github.com/EU-QA/udemy_curso_gitgithub)
 </details>
 
 <details>
   <summary>
-    <a>Preparatório para CTFL - ISTQB/BSQTB (3.1.1)</a>
+    <a>Preparatório para CTFL - ISTQB/BSQTB (3.1.1/4.0)</a>
   </summary>
 
   <a name="ctfl"></a>
@@ -69,7 +70,7 @@
   - [Acesse o curso](https://www.udemy.com/course/preparatorio-para-ctfl-istqbbsqtb/?referralCode=4AB0134D518C12E837A7)
 </details>
 
-## Free playlist on Youtube
+## Playlist Gratuita - YouTube
 
 <details>
   <summary>
@@ -79,7 +80,7 @@
   <a name="git_github"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jZQoExDtTzonpo757E6r_S)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_git_github)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_git_github)
 </details>
 
 <details>
@@ -90,7 +91,7 @@
   <a name="como_fazer_robot"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jLIp0tCtQafj2fj_ogs4Et)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_como_fazer_com_robot)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_como_fazer_com_robot)
 </details>
 
 <details>
@@ -102,7 +103,7 @@
   
   - [Acesse a playlist - UI](https://www.youtube.com/playlist?list=PLVQdoQTyi01i6poQTkmHuKaPv4LqREX6w)
   - [Acesse a playlist - API](https://www.youtube.com/playlist?list=PLVQdoQTyi01i-2XS-YY0WtbrIFr7sryUb)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_robot_ui_api_basic)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_robot_ui_api_basic)
 </details>
 
 <details>
@@ -113,7 +114,7 @@
   <a name="robot_faker_api"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01ifjkQkXsApB-vyQj05QZAy)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_robot_framework_faker_api)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_robot_framework_faker_api)
 </details>
 
 <details>
@@ -124,7 +125,7 @@
   <a name="trelo_api"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01gfbJEseu7v-ctgOMTL_jLy)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_trelo_api)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_trelo_api)
 </details>
 
 <details>
@@ -145,7 +146,7 @@
   <a name="cypress_ui_api"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01hAYibssFzQRhFkt4GaW78c)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_cypress_guia_web_api)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_cypress_guia_web_api)
 </details>
 
 <details>
@@ -186,6 +187,8 @@
   <a name="logica_python"></a>
   
   - [Acesse a playlist](https://www.youtube.com/playlist?list=PLVQdoQTyi01jBjb1XuvcAVW9IysudL4g0)
-  - [Acesse o repositório](https://github.com/qagesmachado/youtube_python_exercises)
+  - [Acesse o repositório](https://github.com/EU-QA/youtube_python_exercises)
 </details>
 
+## Colaboradores
+- [Gustavo Eduardo Silva Machado](https://github.com/qagesmachado)
