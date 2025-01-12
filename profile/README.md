@@ -62,6 +62,17 @@
 
 <details>
   <summary>
+    <a>Integração contínua com GitHub Actions</a>
+  </summary>
+
+  <a name="github_actions"></a>
+  
+  - [Acesse o curso]()
+  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_github_actions)
+</details>
+
+<details>
+  <summary>
     <a>Preparatório para CTFL - ISTQB/BSQTB (3.1.1/4.0)</a>
   </summary>
 
