@@ -67,7 +67,7 @@
 
   <a name="github_actions"></a>
   
-  - [Acesse o curso]()
+  - [Acesse o curso](https://www.udemy.com/course/integracao-continua-com-github-actions/?referralCode=9B73B95A7F6DC0AA2EEE)
   - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_github_actions)
 </details>
 
