@@ -4,7 +4,21 @@
 
 - Mentoria Capacitação QA Engineer (Em breve)
 
-## Cursos Disponíveis
+## Cursos indiviuais/grupo (ao vivo)
+
+<details>
+  <summary>
+    <a>Preparatório CTFL 4.0</a>
+  </summary>
+
+  <a name="ctfl"></a>
+  
+  - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
+  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_preparatorio_ctfl)
+</details>
+
+## Cursos Disponíveis (online)
+
 <details>
   <summary>
     <a>Robot Framework: testes automatizados de interface e API</a>
