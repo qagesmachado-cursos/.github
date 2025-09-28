@@ -17,6 +17,17 @@
   - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_preparatorio_ctfl)
 </details>
 
+<details>
+  <summary>
+    <a>Testes de API com Postman</a>
+  </summary>
+
+  <a name="ctfl"></a>
+  
+  - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
+  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_postman_publico)
+</details>
+
 ## Cursos Disponíveis (online)
 
 <details>
