@@ -14,7 +14,7 @@
   <a name="ctfl"></a>
   
   - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_preparatorio_ctfl)
+  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_preparatorio_ctfl_publico)
 </details>
 
 ## Cursos Disponíveis (online)
