@@ -63,6 +63,17 @@
   - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_basico_robot_framework)
 </details>
 
+<details>
+  <summary>
+    <a>Robot Framework: Testes Web com Browser</a>
+  </summary>
+
+  <a name="robot"></a>
+  
+  - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-web-com-browser/?referralCode=33400ADBBD59DAF6226F)
+  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_robot_browser)
+</details>
+
 
 <details>
   <summary>
