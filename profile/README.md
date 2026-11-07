@@ -1,136 +1,21 @@
-# Gustavo Machado QA - Cursos e Mentorias
+# Gustavo Machado QA - Cursos e Youtube
 
 ## Programa de mentoria
 
-- Mentoria Capacitação QA Engineer (Em breve)
-
-## Cursos indiviuais/grupo (ao vivo)
-
-<details>
-  <summary>
-    <a>Preparatório CTFL 4.0</a>
-  </summary>
-
-  <a name="ctfl"></a>
-  
-  - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_preparatorio_ctfl_publico)
-</details>
-
-<details>
-  <summary>
-    <a>Testes de API com Postman</a>
-  </summary>
-
-  <a name="ctfl"></a>
-  
-  - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_postman_publico)
-</details>
-
-<details>
-  <summary>
-    <a>Testes automáticos com Cypress</a>
-  </summary>
-
-  <a name="ctfl"></a>
-  
-  - [Entrar em contato](https://www.linkedin.com/in/qagesmachado/)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/ao_vivo_curso_cypress_publico/)
-</details>
+- Mentoria [Capacitação QA Software Engineer](https://www.qagesmachado.com.br/)
 
 ## Cursos Disponíveis (online)
+- Robot Framework
+- Preparatório CTFL
+- Postman
+- Git e Github Actions
+- Etc
 
-<details>
-  <summary>
-    <a>Robot Framework: testes automatizados de interface e API</a>
-  </summary>
-
-  <a name="robot"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/?referralCode=3328501F5ADA67F6232B)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_robot_ui_api)
-</details>
-
-<details>
-  <summary>
-    <a>Robot Framework: Básico - WEB e API</a>
-  </summary>
-
-  <a name="robot"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/robot-framework-basico-web-e-api/?referralCode=B09F2BA773489543DCC5)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_basico_robot_framework)
-</details>
-
-<details>
-  <summary>
-    <a>Robot Framework: Testes Web com Browser</a>
-  </summary>
-
-  <a name="robot"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/robot-framework-testes-web-com-browser/?referralCode=33400ADBBD59DAF6226F)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_robot_browser)
-</details>
-
-
-<details>
-  <summary>
-    <a>Postman do Básico ao Avançado com Projetos</a>
-  </summary>
-
-  <a name="postman"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/?referralCode=3ED49D8F294C92F0B8A1)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_postman_basico_avancado)
-</details>
-
-<details>
-  <summary>
-    <a>Iniciando na área de testes de software</a>
-  </summary>
-
-  <a name="iniciando_em_qa"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/?referralCode=EA0BC9A8C708B9EBEE5D)
-</details>
-
-<details>
-  <summary>
-    <a>Aprenda Git e GitHub desde o básico</a>
-  </summary>
-
-  <a name="git_github"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/aprenda-git-e-github-desde-o-basico/?referralCode=007EDB0484C211DD47EB)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_gitgithub)
-</details>
-
-<details>
-  <summary>
-    <a>Integração contínua com GitHub Actions</a>
-  </summary>
-
-  <a name="github_actions"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/integracao-continua-com-github-actions/?referralCode=9B73B95A7F6DC0AA2EEE)
-  - [Acesse o repositório](https://github.com/qagesmachado-cursos/udemy_curso_github_actions)
-</details>
-
-<details>
-  <summary>
-    <a>Preparatório para CTFL - ISTQB/BSQTB (3.1.1/4.0)</a>
-  </summary>
-
-  <a name="ctfl"></a>
-  
-  - [Acesse o curso](https://www.udemy.com/course/preparatorio-para-ctfl-istqbbsqtb/?referralCode=4AB0134D518C12E837A7)
-</details>
+Acesse: [Acesse os cursos](https://www.udemy.com/user/qagesmachado/)
 
 ## Playlist Gratuita - YouTube
+  - Acesse as playlists: [Playlists gratuitas youtube](https://www.youtube.com/@qagesmachado/playlists)
 
-<details>
   <summary>
     <a>Guia - Git e Github</a>
   </summary>
