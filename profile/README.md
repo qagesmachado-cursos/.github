@@ -14,8 +14,10 @@
 Acesse: [Acesse os cursos](https://www.udemy.com/user/qagesmachado/)
 
 ## Playlist Gratuita - YouTube
-  - Acesse as playlists: [Playlists gratuitas youtube](https://www.youtube.com/@qagesmachado/playlists)
 
+- Acesse as playlists: [Playlists gratuitas youtube](https://www.youtube.com/@qagesmachado/playlists)
+
+<details>
   <summary>
     <a>Guia - Git e Github</a>
   </summary>
