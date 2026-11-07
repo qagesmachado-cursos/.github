@@ -2,7 +2,7 @@
 
 ## Programa de mentoria
 
-- Mentoria [Capacitação QA Software Engineer](https://www.qagesmachado.com.br/)
+- [Mentoria e Capacitação QA Software Engineer](https://www.qagesmachado.com.br/)
 
 ## Cursos Disponíveis (online)
 - Robot Framework
